@@ -1,0 +1,135 @@
+body{
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  overflow-x: hidden;
+}
+#home{
+  background-color: #150303;
+}
+a.nav-link{
+  color: white !important;
+  padding: 25px;
+}
+#header-btn{
+  background-color: #FB0000;
+  color: white;
+  padding: 25px 60px;
+}
+.navbar-toggler-icon{
+  color: #FB0000 !important;
+}
+.hero-caption{
+  color: white;
+  display: inline-block;
+  justify-content: center;
+  padding-top: 100px;
+}
+.hero-img{
+  align-items: end;
+}
+.section-padding{
+  padding: 120px 0px;
+}
+a,a:link{
+  text-decoration: none ;
+  color: #150303;
+}
+.fw{
+  font-weight: 900;
+}
+#red{
+  color: #FB0000;
+}
+h4{
+  color: #150303;
+}
+.visit-tailor-area{
+  display: flex;
+  align-items: center;
+}
+.fix{
+  overflow: hidden;
+}
+.visit-tailor-area .tailor-details{
+  width: 35%;
+  padding: 20px 40px 20px 80px;
+}
+.visit-tailor-area .barber-team{
+  width: 56%;
+}
+.visit-tailor-area .team-wrapper{
+  display: flex;
+  flex-wrap: wrap;
+}
+.visit-tailor-area .team-wrapper .single-barber{
+  flex: 0 0 auto;
+  width: 33%;
+}
+.visit-tailor-area .team-wrapper .single-barber img{
+  width: 100%;
+}
+.visit-tailor-area .tailor-details .price-items{
+  display: flex;
+  justify-content: space-between;
+  padding: 19px 0;
+  border-bottom: 1 px solid #EFDCE4;
+}
+.visit-tailor-area .tailor-details .price-items .price-left{
+  display: flex;
+  align-items: center;
+}
+.border-bottom{
+  border-bottom: 1px solid black;
+}
+.section-title{
+  position: relative;
+}
+.tailor details .job-title{
+  list-style: none;
+  color: black;
+  font-style: normal;
+}
+.footer-wrapper{
+  background-color: #150303;
+}
+.footer-padding{
+  padding-top: 99px;
+  padding-bottom: 0;
+}
+.footer-bottom-area .footer-border{
+  border-top: 1px solid rgba(255,255,255,0.9);
+  padding-top: 39px;
+  padding-bottom: 1px;
+}
+.footer-bottom-area .footer-copy-right p{
+  color: #928888;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 2;
+}
+.categories-area .single-cat{
+  background-color: #150303;
+  border-radius: 15px;
+  padding: 48px 40px;
+}
+.categories-area .single-cat .cat-icon{
+  margin-bottom: 20px;
+}
+.categories-area .single-cat h5{
+color: white;
+font-size: 24px;
+font-weight: 400;
+}
+.customer-section .single-cat{
+  padding: 40px 46px 25px 46px;
+  border: 1px solid rgba(103,94,94,0.2);
+  border-radius: 0px;
+}
+.categories-area .single-cat .cat-cap p{
+  color: #928888;
+  font-size: 16px;
+}
+p{
+  color: #675E5E;
+}
